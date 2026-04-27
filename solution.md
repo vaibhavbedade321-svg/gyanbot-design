@@ -2,7 +2,7 @@
 
 **Project:** CampusConnect / GyanBot
 **Role:** AI Product Designer (1-day engagement)
-**Author:** [Your Name]
+**Author:** Vaibhav
 
 ---
 
